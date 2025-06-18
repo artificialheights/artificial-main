@@ -3,7 +3,7 @@
 Plugin Name: Artificial Maintenance
 Plugin URI: https://artificialheights.com/
 Description: Maintenance mode plugin customized for Artificial Heights.
-Version: 1.0.0
+Version: 1.0.1
 Author: Artificial Heights, LLC
 Author URI: https://artificialheights.com
 License: GPL2
